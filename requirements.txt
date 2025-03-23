@@ -1,0 +1,11 @@
+torch  
+torchvision  
+numpy  
+pandas  
+plotly  
+umap-learn  
+faiss-cpu  
+streamlit  
+open-clip-torch  
+datumaro
+transformers
